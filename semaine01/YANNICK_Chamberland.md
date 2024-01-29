@@ -2,7 +2,7 @@ Yannick Chamberland
 
 ![photo](Portrait.png)
 
-
+Photo de moi au mexique l'été 2023
 
 
 
