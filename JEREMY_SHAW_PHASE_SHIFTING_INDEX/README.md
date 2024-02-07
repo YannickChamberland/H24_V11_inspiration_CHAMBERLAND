@@ -1,1 +1,1 @@
-Bonjour, je vais vous présentez l'opeuvre de Jeremy Shaw intituler Phase Shifting Index et mes appréciations pour cette oeuvre.
+Bonjour, je vais vous présentez l'oeuvre de Jeremy Shaw intituler Phase Shifting Index et mes appréciations pour cette oeuvre. Bonne présentation!
