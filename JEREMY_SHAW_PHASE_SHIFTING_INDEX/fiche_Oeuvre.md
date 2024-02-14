@@ -6,6 +6,8 @@ Jeremy Shaw Phase shifting index
 Lieu de mise en exposition 
 Fonderie darling
 
+![image](image/Entree.png)
+
 Type d'exposition
 temporaire, ittineraire
 
