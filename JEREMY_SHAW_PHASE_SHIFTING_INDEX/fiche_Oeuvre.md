@@ -32,17 +32,31 @@ Immersive
 Mise en espace
 Il y a 7 ecrans certains suspendu du plafond d'autres sur des murs, la salle est couvert de tapis gris et il y a des haut-parleurs dans la piece
 
+![image](image/plan.png)
+
+![image](image/ecran_2.png)
+
+![image](image/ecran_1.png)
+
 Componsant et technique
 L'oeuvre se compose de projecteurs et des 7 ecrans et des lumieres qui ajoutent a l'ambiance
 
+![image](image/ecran_5.png)
+
+![image](image/ecran_10.png)
+
 Element necessaire a la mise en exposition 
 Des tapis utiliser dans toute la piece, des estrades pour s'assoir
+
+![image](image/ecran_4.png)
 
 Experience vecue
 L'oeuvre ma fait ressentir un amusement avec certains des pieces de certains ecrans, cela ma aussi rendu confu quand les ecrans/personnages se fusionnaient entre eux et finalement une joie/admirartion quand j'ai vue les couleurs hyptonique 
 
 Ce qui vous a plut, vous a donne des idees
 Certaines scenes etaient interessant et la partie avec plusieurs couleurs est definitivement ma section prefere
+
+![image](image/couleur.png)
 
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Je ne voudrais pas retenir la partie ou les personnages se melangeaient entre eux et la visibiliter etait super reduite
