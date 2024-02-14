@@ -1,7 +1,7 @@
 Nom de l'expposition
 Jeremy Shaw Phase shifting index
 
-![image](media/inscription.png)
+![image](image/inscription.png)
 
 Lieu de mise en exposition 
 Fonderie darling
