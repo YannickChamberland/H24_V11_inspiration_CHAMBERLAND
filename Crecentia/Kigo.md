@@ -1,6 +1,6 @@
-Titre
+## Titre
 Kigo
-Personne de l'équipe
+## Personne de l'équipe
 Érick Ouellette
 William Rathier Mailly
 Gabriel Clerval
