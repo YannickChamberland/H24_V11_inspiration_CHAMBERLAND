@@ -1,6 +1,6 @@
-Titre
+## Titre
 Effect Papillon
-Personne de l'équipe
+## Personne de l'équipe
 Raphaël Dumont
 Alexis BolducAlexis Bolduc
 William Morel
