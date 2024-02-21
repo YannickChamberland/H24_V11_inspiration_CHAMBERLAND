@@ -1,6 +1,6 @@
-Titre 
+## Titre 
 Canevas cosmique
-Personne de l'équipe
+## Personne de l'équipe
 Jacob Alarie-Brousseau
 Étienne Charron
 Jérémy Cholette
