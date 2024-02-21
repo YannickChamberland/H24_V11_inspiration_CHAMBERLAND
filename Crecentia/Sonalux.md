@@ -1,6 +1,6 @@
-Titre
+## Titre
 Sonalux
-Personne de l'équipe
+## Personne de l'équipe
 Antoine Haddad
 Camélie Laprise
 Ghita Alaoui
