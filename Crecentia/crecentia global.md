@@ -18,5 +18,5 @@ Interactivite ludique est important car cela donne l'experience en creation de p
 - 4 : Sonalux
 -  5 : Effet Papillon
 
-## Noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+## Noter ce que vous ressentirez en expérimentant chacune des installations, avec justification
 
