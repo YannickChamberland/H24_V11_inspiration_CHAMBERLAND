@@ -7,6 +7,11 @@
 
 
 ## Ordonner les projets selon votre préférence actuelle
+1 : 
+2 :
+3 :
+4 :
+5 :
 
 
 ## Noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
