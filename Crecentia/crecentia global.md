@@ -16,7 +16,11 @@ Interactivite ludique est important car cela donne l'experience en creation de p
 - 2 : Kigo
 - 3 : Canevas cosmique
 - 4 : Sonalux
--  5 : Effet Papillon
+- 5 : Effet Papillon
 
 ## Noter ce que vous ressentirez en expérimentant chacune des installations, avec justification
-
+- 1 : Rhizomathique :
+- 2 : Kigo :
+- 3 : Canevas cosmique :
+- 4 : Sonalux :
+- 5 : Effet Papillon :
