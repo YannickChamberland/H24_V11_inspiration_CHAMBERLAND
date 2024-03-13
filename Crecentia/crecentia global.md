@@ -8,11 +8,10 @@
 Ça fessait longtemps que j'avais utiliser la kinect, je ne me rappelait plus a 100% comment elle marchait, elle est utiliser pour capter les mouvement grace a sa camera et transmet les mouvement dans le jeux dans le projet Kigo
 
 ## Ordonner les projets selon votre préférence actuelle
-1 : Rhizomathique
-2 : Kigo
-3 : Canevas cosmique
-4 : Sonalux
-5 : Effet Papillon
-
+### 1 : Rhizomathique
+### 2 : Kigo
+### 3 : Canevas cosmique
+###  4 : Sonalux
+###  5 : Effet Papillon
 
 ## Noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
