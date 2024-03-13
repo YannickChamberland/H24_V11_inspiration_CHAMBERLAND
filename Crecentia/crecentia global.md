@@ -7,11 +7,11 @@
 
 
 ## Ordonner les projets selon votre préférence actuelle
-1 : 
-2 :
-3 :
-4 :
-5 :
+1 : Rhizomathique
+2 : Kigo
+3 : Canevas cosmique
+4 : Sonalux
+5 : Effet Papillon
 
 
 ## Noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
