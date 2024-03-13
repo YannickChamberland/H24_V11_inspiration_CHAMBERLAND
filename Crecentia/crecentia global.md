@@ -4,6 +4,7 @@
 
 
 ## Présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
+## La kinect
 Ça fessait longtemps que j'avais utiliser la kinect, je ne me rappelait plus a 100% comment elle marchait, elle est utiliser pour capter les mouvement grace a sa camera et transmet les mouvement dans le jeux dans le projet Kigo
 
 ## Ordonner les projets selon votre préférence actuelle
