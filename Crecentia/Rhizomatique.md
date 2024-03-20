@@ -11,3 +11,7 @@ Le lien entre Crecentia et le project Rhizomatique car Crecentia represente le c
 ## Instalation
 
 ## Schéma
+
+
+![image](image/kigo_plantation.png)
+
