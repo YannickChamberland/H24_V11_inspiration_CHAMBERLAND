@@ -14,5 +14,5 @@ Le lien entre Crecentia et le project Kigo car Crecentia represente le concept d
 ## Schéma
 
 
-![image](/kigo_plantation.png)
+![image](image/kigo_plantation.png)
 
