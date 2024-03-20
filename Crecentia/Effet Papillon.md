@@ -15,5 +15,5 @@ Le lien entre Crecentia et le project Effect Papillon car Crecentia represente l
 ## Schéma
 
 
-![image](image/effectpapillon_plantation.png)
+![image](image/effetpapillon_plantation.jpg)
 
