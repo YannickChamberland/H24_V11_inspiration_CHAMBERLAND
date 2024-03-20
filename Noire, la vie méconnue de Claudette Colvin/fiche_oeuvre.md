@@ -19,6 +19,7 @@ Noire, la vie méconnue de Claudette Colvin
 
 ## Nom de l'artiste
 Novaya
+Réalisateur : Stéphane Foenkinos et Pierre-Alain Giraud
 
 ## Année de realisation
 
