@@ -22,7 +22,7 @@ Noire, la vie méconnue de Claudette Colvin
 - Réalisateur : Stéphane Foenkinos et Pierre-Alain Giraud
 
 ## Année de realisation
-
+20 avril 2023
 
 ## Description de l'oeuvre
 Noire, la vie méconnue de Claudette Colvin est une expérience immersive adaptée d'un essai biographique, écrit par Tania de Montaigne, qui retrace l’histoire de Claudette Colvin et son itinéraire de la lutte à l’abandon. 
