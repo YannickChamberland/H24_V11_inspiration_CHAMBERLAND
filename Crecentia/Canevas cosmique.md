@@ -12,7 +12,7 @@ Le lien entre Crecentia et le project Canevas cosmique car Crecentia represente 
 ## Instalation
 
 
-![image](image/plantationPlan.png)
+![image](image/CANEVASCOSMIQUE_installation.jpg)
 
 
 ## Schéma
