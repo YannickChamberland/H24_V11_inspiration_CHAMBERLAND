@@ -47,7 +47,7 @@ Immersive
 
 
 ## Ce qui vous a plut, vous a donne des idees
-
+J'ai trouver que la réalité augmentée à bien été utilisée, les animations étaient fluide, je trouve qu'utiliser la réaliter augmenter est un très bon choix en multimédia
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
