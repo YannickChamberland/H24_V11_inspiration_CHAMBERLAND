@@ -24,7 +24,7 @@ Novaya
 
 
 ## Description de l'oeuvre
-
+Noire, la vie méconnue de Claudette Colvin est une expérience immersive adaptée d'un essai biographique, écrit par Tania de Montaigne, qui retrace l’histoire de Claudette Colvin et son itinéraire de la lutte à l’abandon. 
 
 ## Type d'installation
 Immersive
