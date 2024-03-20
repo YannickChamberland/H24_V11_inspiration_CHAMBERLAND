@@ -11,7 +11,7 @@ Le lien entre Crecentia et le project Sonalux car Crecentia represente le concep
 ## Instalation
 
 
-![image](image/sonalux_plantation.png)
+![image](image/SONALUX_installation.jpg)
 
 
 ## Schéma
