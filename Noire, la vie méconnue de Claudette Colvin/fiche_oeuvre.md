@@ -1,4 +1,4 @@
-# Nom de l'expposition
+# Nom de l'exposition
 Noire, la vie méconnue de Claudette Colvin
 
 
