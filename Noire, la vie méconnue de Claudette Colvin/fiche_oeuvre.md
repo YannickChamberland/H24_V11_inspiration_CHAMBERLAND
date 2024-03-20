@@ -4,7 +4,7 @@ Noire, la vie méconnue de Claudette Colvin
 
 
 ## Lieu de mise en exposition 
-Centre PHI
+Centre PHI, Centre Pompidou (fini)
 
 
 
@@ -18,7 +18,7 @@ Ittinérante, temporaire
 Noire, la vie méconnue de Claudette Colvin
 
 ## Nom de l'artiste
-
+Novaya
 
 ## Année de realisation
 
