@@ -9,13 +9,13 @@ Centre PHI
 
 
 ## Type d'exposition
-
+Ittinérante, temporaire
 
 ## Date de votre visite
 28 Février 2024
 
 ## Titre de l'oeuvre
-
+Noire, la vie méconnue de Claudette Colvin
 
 ## Nom de l'artiste
 
