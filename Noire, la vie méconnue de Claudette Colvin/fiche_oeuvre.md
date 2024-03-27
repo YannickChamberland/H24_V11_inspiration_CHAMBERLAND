@@ -32,11 +32,11 @@ Immersive
 
 
 ## Mise en espace
-On etait amenner dans une grande salle. Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
+On etait amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
 
 
 ## Componsante et technique
-Un fichier numerique avec de la realite augmenter et une personne qui nous parlait grace a des ecouteurs et des videos etanent projeter sur un ecran
+Un fichier numerique avec de la realite augmenter et une experience sensoriel a travers des haut-parleur et des ecouteurs et des videos etanent projeter sur un ecran.
 
 
 
