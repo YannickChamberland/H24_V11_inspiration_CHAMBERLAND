@@ -51,4 +51,4 @@ J'ai trouver que la réalité augmentée à bien été utilisée, les animations
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-
+Je trouve que le projecteur etait pas assez utiliser a mon gout. Je trouve que ça aurait ete meilleur si il n'avait pas utiliser l'ecran
