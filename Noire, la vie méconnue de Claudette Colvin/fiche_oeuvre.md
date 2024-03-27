@@ -38,8 +38,6 @@ On etait amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs d
 ## Componsante et technique
 Un fichier numerique avec de la realite augmenter et une experience sensoriel a travers des haut-parleur et des ecouteurs et des videos etanent projeter sur un ecran.
 
-
-
 ## Element necessaire a la mise en exposition 
 Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR (HoloLens2) qui nous permettaient de voir l'histoire de Claudette grace a des hologrammes
 
