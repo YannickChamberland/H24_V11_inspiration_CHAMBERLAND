@@ -32,16 +32,16 @@ Immersive
 
 
 ## Mise en espace
-Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
+On etait amenner dans une grande salle. Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
 
 
-## Componsant et technique
-Il y avait les lunettes de realiter augmenter et les ecouteurs, il y avait aussi le projecteur pour projeter sur la toile du projecteur.
+## Componsante et technique
+Un fichier numerique avec de la realite augmenter et une personne qui nous parlait grace a des ecouteurs
 
 
 
 ## Element necessaire a la mise en exposition 
-
+Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR qui nous permettaient de voir l'histoire de Claudette
 
 ## Experience vecue
 J'ai eux une belle experience, je l'ai trouver fascinante et l'utilisation de la realiter augmenter etait incroyable et cela m'as permit d'apprendre de l'histoire de Claudette
