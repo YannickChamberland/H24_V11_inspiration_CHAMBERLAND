@@ -41,7 +41,7 @@ Un fichier numerique avec de la realite augmenter et une experience sensoriel a 
 
 
 ## Element necessaire a la mise en exposition 
-Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR qui nous permettaient de voir l'histoire de Claudette
+Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR (HoloLens2) qui nous permettaient de voir l'histoire de Claudette grace a des hologrammes
 
 ## Experience vecue
 J'ai eux une belle experience, je l'ai trouver fascinante et l'utilisation de la realiter augmenter etait incroyable et cela m'as permit d'apprendre de l'histoire de Claudette
