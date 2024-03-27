@@ -36,7 +36,7 @@ On etait amenner dans une grande salle. Il y avait des bancs de bois, un écran 
 
 
 ## Componsante et technique
-Un fichier numerique avec de la realite augmenter et une personne qui nous parlait grace a des ecouteurs
+Un fichier numerique avec de la realite augmenter et une personne qui nous parlait grace a des ecouteurs et des videos etanent projeter sur un ecran
 
 
 
