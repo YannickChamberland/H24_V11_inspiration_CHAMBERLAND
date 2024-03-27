@@ -32,7 +32,7 @@ Immersive
 
 
 ## Mise en espace
-
+Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
 
 
 ## Componsant et technique
