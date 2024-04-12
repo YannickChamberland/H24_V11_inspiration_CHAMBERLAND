@@ -29,6 +29,10 @@ Noire, la vie méconnue de Claudette Colvin
 ## Description de l'oeuvre
 Noire, la vie méconnue de Claudette Colvin est une expérience immersive adaptée d'un essai biographique, écrit par Tania de Montaigne, qui retrace l’histoire de Claudette Colvin et son itinéraire de la lutte à l’abandon. 
 
+
+![image](image/synopsis.jpg)
+
+
 ## Type d'installation
 Immersive
 
@@ -37,8 +41,24 @@ Immersive
 On etait amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
 
 
+![image](image/salle.jpg)
+
+
+
 ## Componsante et technique
 Un fichier numerique avec de la realite augmenter et une experience sensoriel a travers des haut-parleur et des ecouteurs et des videos etanent projeter sur un ecran.
+
+
+![image](image/hologramme.webp)
+
+
+![image](image/haut_parleur.jpg)
+
+
+![image](scene_1.jpg)
+
+
+
 
 ## Element necessaire a la mise en exposition 
 Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR (HoloLens2) qui nous permettaient de voir l'histoire de Claudette grace a des hologrammes
