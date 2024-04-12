@@ -55,7 +55,8 @@ Un fichier numerique avec de la realite augmenter et une experience sensoriel a 
 ![image](image/haut_parleur.jpg)
 
 
-![image](scene_1.jpg)
+
+![image](image/scene_2.jpg)
 
 
 
