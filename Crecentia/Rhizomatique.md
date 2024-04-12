@@ -10,6 +10,10 @@ Le lien entre Crecentia et le project Rhizomatique car Crecentia represente le c
 
 ## Instalation
 
+
+![image](image/rhizomatique_instalation.jpg)
+
+
 ## Schéma
 
 
