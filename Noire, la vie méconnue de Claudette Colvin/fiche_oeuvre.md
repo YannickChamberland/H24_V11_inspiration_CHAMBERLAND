@@ -1,11 +1,13 @@
 # Nom de l'exposition
 Noire, la vie méconnue de Claudette Colvin
 
+![image](image/description.jpg)
 
 
 ## Lieu de mise en exposition 
 Centre PHI, Centre Pompidou (fini)
 
+![image](image/Entrer.jpg)
 
 
 ## Type d'exposition
