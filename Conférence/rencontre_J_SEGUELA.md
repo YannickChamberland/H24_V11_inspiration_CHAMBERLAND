@@ -10,4 +10,7 @@ Personellement, j'ai trouver que la conférence était intéressant, j'ai appré
 
 
 
-![image](img/translation_stream_abu_dhabi_2023_rlh_004_t.jpg.png)
+![image](img/translation_stream_abu_dhabi_2023_lg_007_t.jpg)
+
+
+(J'ai essayé de mettre une image 3 fois mais cela ne marche pas alors ce sont des lettre d'un poem qui est projeter sur le sable.
