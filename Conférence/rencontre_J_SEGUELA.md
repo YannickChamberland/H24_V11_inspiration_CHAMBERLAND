@@ -10,4 +10,4 @@ Personellement, j'ai trouver que la conférence était intéressant, j'ai appré
 
 
 
-![image](img/translation_stream_abu_dhabi_2023_rlh_004_t.jpg)
+![image](img/translation_stream_abu_dhabi_2023_rlh_004_t.jpg.png)
