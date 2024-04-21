@@ -8,4 +8,6 @@ Lors de la conférence, la régistraire : Jade Séguela nous a présenter son bo
 Personellement, j'ai trouver que la conférence était intéressant, j'ai apprécier la partie dont elle expliquait comment son équipe de travail était intéressante. L'exposition qui m'as le plus intéresser c'était Translation Stream/Island.
 
 
+
+
 ![image](img/translation_stream_abu_dhabi_2023_rlh_004_t.jpg)
