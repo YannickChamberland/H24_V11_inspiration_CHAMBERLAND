@@ -35,11 +35,20 @@ Self learning car
 - Ubisoft
 - Équipe de Watch Dogs 2
 
+
+[image](./image/Credit.jpg)
+
+
+
 ## Année de realisation
 2012
 
 ## Description de l'oeuvre
 Cet oeuvre nous permets d'utiliser l'intelligence artificielle pour apprendre une voiture à conduire par elle-même, il y avait aussi plusieurs fins dépendament de tes choix.
+
+
+
+[image](./image/Explication.jpg)
 
 
 
@@ -55,9 +64,26 @@ On est entré dans un petit studio qui avait au milieu un piédestal avec un éc
 
 
 
+[image](./image/Interface.jpg)
+
+
+
+
+
+[image](./image/Interface_interactif.jpg)
+
+
+
+
+
 
 ## Componsante et technique
-Il y avit un piédestal avec l'interface intéractive et il y avait des projecteurs qui projettaient le jeux où la voiture conduisait par elle-même.
+Il y avait un piédestal avec l'interface intéractive et il y avait des projecteurs qui projettaient le jeux où la voiture conduisait par elle-même.
+
+
+
+
+[image](./image/Interface_interactif.jpg)
 
 
 
@@ -65,7 +91,7 @@ Il y avit un piédestal avec l'interface intéractive et il y avait des projecte
 
 
 
-
+[image](./image/Voiture_2.jpg)
 
 
 
@@ -74,6 +100,12 @@ Il y avit un piédestal avec l'interface intéractive et il y avait des projecte
 
 ## Element necessaire a la mise en exposition 
 Projecteur, le piédestal avec l'interface intérative et le jeux qui contient la voiture intelligente.
+
+
+
+
+
+[image](./image/Projecteur.jpg)
 
 
 
