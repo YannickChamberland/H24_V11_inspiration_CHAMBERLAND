@@ -7,7 +7,7 @@ Canevas cosmique
 - Quoc Huy Do
 - Mikaël Tourangeau
 ## Lien avec Crecentia
-Le lien entre Crecentia et le project Canevas cosmique car Crecentia represente le concept de l'evolution et l'evolution a plusieurs facette et Canevas cosmique represente l'evolution du systeme solaire a cause des actions de l'utilisateur
+Le lien entre Crecentia et le project Canevas cosmique car Crecentia représente le concept de l'évolution et l'évolution a plusieurs facette et Canevas cosmique représente l'évolution du systeme solaire à cause des actions de l'utilisateur
 
 ## Instalation
 
