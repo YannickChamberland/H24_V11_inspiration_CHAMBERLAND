@@ -38,7 +38,7 @@ Immersive
 
 
 ## Mise en espace
-On etait amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui representait la prison
+On était amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs de bois, un écran et un projecteur, il y avait aussi une structure qui représentait la prison.
 
 
 ![image](image/salle.jpg)
@@ -46,7 +46,7 @@ On etait amenner dans une grande salle (de 200 a 500 m2). Il y avait des bancs d
 
 
 ## Componsante et technique
-Un fichier numerique avec de la realite augmenter et une experience sensoriel a travers des haut-parleur et des ecouteurs et des videos etanent projeter sur un ecran.
+Un fichier numérique avec de la réalite augmenter et une expérience sensoriel à travers des haut-parleur et des écouteurs et des videos étanent projeter sur un écran.
 
 
 ![image](image/hologramme.webp)
@@ -62,7 +62,7 @@ Un fichier numerique avec de la realite augmenter et une experience sensoriel a 
 
 
 ## Element necessaire a la mise en exposition 
-Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR (HoloLens2) qui nous permettaient de voir l'histoire de Claudette grace a des hologrammes
+Il devait avoir les écouteurs qu'on mettait derriere nos oreille, il devait avoir aussi des lunnetes AR (HoloLens2) qui nous permettaient de voir l'histoire de Claudette grâce à des hologrammes
 
 
 ![image](image/HoloLens2.jpg)
@@ -75,11 +75,11 @@ Il devait avoir les ecouteurs qu'on mettait derriere nos oreille, il devait avoi
 
 
 ## Experience vecue
-J'ai eux une belle experience, je l'ai trouver fascinante et l'utilisation de la realiter augmenter etait incroyable et cela m'as permit d'apprendre de l'histoire de Claudette
+J'ai eux une belle expérience, je l'ai trouver fascinante et l'utilisation de la réaliter augmenter était incroyable et cela m'as permit d'apprendre l'histoire de Claudette Colvin
 
 ## Ce qui vous a plut, vous a donne des idees
 J'ai trouver que la réalité augmentée à bien été utilisée, les animations étaient fluide, je trouve qu'utiliser la réaliter augmenter est un très bon choix en multimédia
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Je trouve que le projecteur etait pas assez utiliser a mon gout et n'avait pas vraiment de coherence a part pour une scene. Je trouve que ça aurait ete meilleur si il n'avait pas utiliser l'ecran et aurait juste utilise la realiter augmenter
+Je trouve que le projecteur était pas assez utiliser à mon gout et n'avait pas vraiment de coherence à part pour une scène. Je trouve que ça aurait été meilleur si il n'avait pas utiliser l'écran et aurait juste utilise la réaliter augmenter
