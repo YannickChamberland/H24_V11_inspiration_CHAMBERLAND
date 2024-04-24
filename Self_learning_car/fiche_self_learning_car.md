@@ -4,7 +4,7 @@ Explore - La science en grand
 
 
 
-[image](./image/Explication.jpg)
+[image](image/Explication.jpg)
 
 
 
@@ -16,7 +16,7 @@ Centre des sciences
 
 
 
-[image](./image/Portrait.png)
+[image](image/Portrait.png)
 
 
 
@@ -36,7 +36,7 @@ Self learning car
 - Équipe de Watch Dogs 2
 
 
-[image](./image/Credit.jpg)
+[image](image/Credit.jpg)
 
 
 
@@ -48,7 +48,7 @@ Cet oeuvre nous permets d'utiliser l'intelligence artificielle pour apprendre un
 
 
 
-[image](./image/Explication.jpg)
+[image](image/Explication.jpg)
 
 
 
@@ -64,13 +64,13 @@ On est entré dans un petit studio qui avait au milieu un piédestal avec un éc
 
 
 
-[image](./image/Interface.jpg)
+[image](image/Interface.jpg)
 
 
 
 
 
-[image](./image/Interface_interactif.jpg)
+[image](image/Interface_interactif.jpg)
 
 
 
@@ -83,7 +83,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](./image/Interface_interactif.jpg)
+[image](image/Interface_interactif.jpg)
 
 
 
@@ -91,7 +91,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](./image/Voiture_2.jpg)
+[image](image/Voiture_2.jpg)
 
 
 
@@ -105,7 +105,7 @@ Projecteur, le piédestal avec l'interface intérative et le jeux qui contient l
 
 
 
-[image](./image/Projecteur.jpg)
+[image](image/Projecteur.jpg)
 
 
 
