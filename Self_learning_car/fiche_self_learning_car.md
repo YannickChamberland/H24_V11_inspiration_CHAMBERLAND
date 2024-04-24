@@ -34,6 +34,9 @@ Self learning car
 ## Nom de l'artiste
 - Ubisoft
 - Équipe de Watch Dogs 2
+- ELisabeth Doyon
+- Adrien Logut
+- Andrea Feder
 
 
 ![image](image/Credit-min.jpg)
