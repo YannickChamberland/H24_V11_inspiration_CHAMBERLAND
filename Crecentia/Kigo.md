@@ -7,7 +7,7 @@ Kigo
 - Nicolas St-MartinNicolas St-Martin
 - Antoine DionAntoine Dion
 ## Lien avec Crecentia
-Le lien entre Crecentia et le project Kigo car Crecentia represente le concept de l'evolution et l'evolution a plusieurs facette et Kigo represente l'evolution a travers le jeu interactif
+Le lien entre Crecentia et le project Kigo car Crecentia représente le concept de l'évolution et l'évolution a plusieurs facette et Kigo représente l'évolution à travers le jeu interactif
 
 ## Instalation
 
