@@ -4,7 +4,7 @@ Explore - La science en grand
 
 
 
-[image](image/Explication-min.jpg)
+![image](image/Explication-min.jpg)
 
 
 
@@ -16,7 +16,7 @@ Centre des sciences
 
 
 
-[image](image/Portrait-min.png)
+![image](image/Portrait-min.png)
 
 
 
@@ -36,7 +36,7 @@ Self learning car
 - Équipe de Watch Dogs 2
 
 
-[image](image/Credit-min.jpg)
+![image](image/Credit-min.jpg)
 
 
 
@@ -48,7 +48,7 @@ Cet oeuvre nous permets d'utiliser l'intelligence artificielle pour apprendre un
 
 
 
-[image](image/Explication-min.jpg)
+![image](image/Explication-min.jpg)
 
 
 
@@ -64,13 +64,13 @@ On est entré dans un petit studio qui avait au milieu un piédestal avec un éc
 
 
 
-[image](image/Interface-min.jpg)
+![image](image/Interface-min.jpg)
 
 
 
 
 
-[image](image/Interface_interactif-min.jpg)
+![image](image/Interface_interactif-min.jpg)
 
 
 
@@ -83,7 +83,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](image/Interface_interactif-min.jpg)
+![image](image/Interface_interactif-min.jpg)
 
 
 
@@ -91,7 +91,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](image/Voiture_2-min.jpg)
+![image](image/Voiture_2-min.jpg)
 
 
 
@@ -105,7 +105,7 @@ Projecteur, le piédestal avec l'interface intérative et le jeux qui contient l
 
 
 
-[image](image/Projecteur-min.jpg)
+![image](image/Projecteur-min.jpg)
 
 
 
@@ -116,7 +116,7 @@ J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin d
 
 
 
-[image](image/Fin-min.jpg)
+![image](image/Fin-min.jpg)
 
 
 
@@ -125,7 +125,7 @@ J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin d
 
 
 
-[image](image/Fin_2-min.jpg)
+![image](image/Fin_2-min.jpg)
 
 
 
