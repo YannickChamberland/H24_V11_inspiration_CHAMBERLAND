@@ -6,7 +6,7 @@ Rhizomathique
 - Laurie Houde
 - Felix Testa Radovanovi
 ## Lien avec Crecentia
-Le lien entre Crecentia et le project Rhizomatique car Crecentia represente le concept de l'evolution et l'evolution a plusieurs facette et Rhizomatique represente l'evolution de la personne a travers le temps en montrant different stage de la vie d'une personne (enfant, adolescent, adulte)
+Le lien entre Crecentia et le project Rhizomatique car Crecentia représente le concept de l'évolution et l'évolution a plusieurs facette et Rhizomatique represente l'évolution de la personne à travers le temps en montrant différent stage de la vie d'une personne (enfant, adolescent, adulte)
 
 ## Instalation
 
