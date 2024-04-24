@@ -16,7 +16,7 @@ Centre des sciences
 
 
 
-[image](image/Portrait.png)
+[image](image/Portrait-min.png)
 
 
 
@@ -36,7 +36,7 @@ Self learning car
 - Équipe de Watch Dogs 2
 
 
-[image](image/Credit.jpg)
+[image](image/Credit-min.jpg)
 
 
 
@@ -64,13 +64,13 @@ On est entré dans un petit studio qui avait au milieu un piédestal avec un éc
 
 
 
-[image](image/Interface.jpg)
+[image](image/Interface-min.jpg)
 
 
 
 
 
-[image](image/Interface_interactif.jpg)
+[image](image/Interface_interactif-min.jpg)
 
 
 
@@ -83,7 +83,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](image/Interface_interactif.jpg)
+[image](image/Interface_interactif-min.jpg)
 
 
 
@@ -91,7 +91,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-[image](image/Voiture_2.jpg)
+[image](image/Voiture_2-min.jpg)
 
 
 
@@ -105,14 +105,34 @@ Projecteur, le piédestal avec l'interface intérative et le jeux qui contient l
 
 
 
-[image](image/Projecteur.jpg)
+[image](image/Projecteur-min.jpg)
 
 
 
 
 
 ## Experience vecue
-J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin de découvrir toutes les fins
+J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin de découvrir toutes les fins.
+
+
+
+[image](image/Fin-min.jpg)
+
+
+
+
+
+
+
+
+[image](image/Fin_2-min.jpg)
+
+
+
+
+
+
+
 
 ## Ce qui vous a plut, vous a donne des idees
 Le concept d'apprendre une voiture à conduire par elle-même est incroyable pour moi et je trouve ça très intéressant et les plusieurs fins donne de la rejouabiliter
