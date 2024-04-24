@@ -4,7 +4,7 @@ Explore - La science en grand
 
 
 
-![image](image/Explication-min.jpg)
+![image](image/Explore.png)
 
 
 
