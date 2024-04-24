@@ -11,7 +11,7 @@ Centre des sciences
 
 
 ## Type d'exposition
-Temporaire
+Permanent, Temporaire
 
 ## Date de votre visite
 10 avril 2024
@@ -23,10 +23,10 @@ Self learning car
 - Ubisoft
 
 ## Année de realisation
-
+2012
 
 ## Description de l'oeuvre
-
+Cet oeuvre nous permets d'utiliser l'intelligence artificielle pour apprendre une voiture à conduire par elle-même
 
 
 
