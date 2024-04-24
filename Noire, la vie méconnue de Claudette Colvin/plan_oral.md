@@ -3,7 +3,7 @@ Présenter Noir, la vie méconnue de Claudette Colvin
 Parler des informations, des détails technique, de mon experience, appréciation, lien avec d'autre experience
 
 ## Développement
-- Titre, nom, annee, type, lieu + date
+- Titre, nom, année, type, lieu + date
 - description, type d'installation, fonction, mise en espace, composant
 - expérience vecu
 - appréciation
