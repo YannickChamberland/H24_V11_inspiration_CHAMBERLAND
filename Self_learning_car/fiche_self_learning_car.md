@@ -4,7 +4,7 @@ Explore - La science en grand
 
 
 
-[image](image/Explication.jpg)
+[image](image/Explication-min.jpg)
 
 
 
@@ -48,7 +48,7 @@ Cet oeuvre nous permets d'utiliser l'intelligence artificielle pour apprendre un
 
 
 
-[image](image/Explication.jpg)
+[image](image/Explication-min.jpg)
 
 
 
