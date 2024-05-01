@@ -7,7 +7,7 @@ Explore - La science en grand
 ![image](image/Explore.png)
 
 
-
+Crédit
 
 
 ## Lieu de mise en exposition 
@@ -70,14 +70,14 @@ On est entré dans un petit studio qui avait au milieu un piédestal avec un éc
 ![image](image/Interface-min.jpg)
 
 
-
+Écran projeter sur le mur
 
 
 ![image](image/Interface_interactif-min.jpg)
 
 
 
-
+Interface sur le piédestal
 
 
 ## Componsante et technique
