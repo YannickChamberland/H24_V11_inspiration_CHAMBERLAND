@@ -138,7 +138,7 @@ Fin 2
 
 
 ## Ce qui vous a plut, vous a donne des idees
-Le concept d'apprendre une voiture à conduire par elle-même est incroyable pour moi et je trouve ça très intéressant et les plusieurs fins donne de la rejouabiliter
+Le concept d'apprendre une voiture à conduire par elle-même grâce à l'intelligence artificiel est incroyable pour moi et je trouve ça très intéressant et les plusieurs fins donne de la rejouabiliter
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
