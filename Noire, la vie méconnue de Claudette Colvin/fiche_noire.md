@@ -82,7 +82,7 @@ HoloLens et écouteurs
 
 
 
-
+![image](image/Scènebus.png)
 
 
 
