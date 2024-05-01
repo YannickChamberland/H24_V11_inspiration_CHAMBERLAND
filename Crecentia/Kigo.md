@@ -11,6 +11,11 @@ Le lien entre Crecentia et le project Kigo car Crecentia représente le concept 
 
 ## Instalation
 
+
+![image](image/kigo_1.jpg)
+
+
+
 ## Schéma
 
 
