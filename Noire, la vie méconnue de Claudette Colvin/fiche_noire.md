@@ -52,11 +52,21 @@ Un fichier numérique avec de la réalite augmenter et une expérience sensoriel
 ![image](image/hologramme.webp)
 
 
+Hologramme
+
+
+
 ![image](image/haut_parleur.jpg)
 
 
 
+Haut parleur
+
+
 ![image](image/scene_2.jpg)
+
+
+Écran
 
 
 
@@ -68,9 +78,15 @@ Il devait avoir les écouteurs qu'on mettait derriere nos oreille, il devait avo
 ![image](image/HoloLens2.jpg)
 
 
+HoloLens et écouteurs
+
+
 
 
 ![image](image/hologramme_3.webp)
+
+
+Scène de procès
 
 
 
