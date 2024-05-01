@@ -84,7 +84,7 @@ HoloLens et écouteurs
 
 
 
-![image](image/Scènebus.png)
+![image](image/scene_bus.png)
 
 
 
