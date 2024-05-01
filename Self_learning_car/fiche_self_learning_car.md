@@ -98,7 +98,7 @@ Il y avait un piédestal avec l'interface intéractive et il y avait des project
 
 
 
-
+Jeu en cours
 
 
 ## Element necessaire a la mise en exposition 
@@ -122,7 +122,7 @@ J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin d
 ![image](image/Fin-min.jpg)
 
 
-
+Fin 1
 
 
 
@@ -132,7 +132,7 @@ J'ai trouver ça amusant et j'ai beaucoup aimer tester les possibilitées afin d
 
 
 
-
+Fin 2
 
 
 
