@@ -101,7 +101,7 @@ Scène de procès <https://www.idboox.com/culture/noire-la-decouverte-extraordin
 
 
 ## Experience vecue
-J'ai eux une belle expérience, je l'ai trouver fascinante et l'utilisation de la réaliter augmenter était incroyable et cela m'as permit d'apprendre l'histoire de Claudette Colvin
+J'ai eu une belle expérience, je l'ai trouver fascinante et l'utilisation de la réaliter augmenter était incroyable et cela m'as permit d'apprendre l'histoire de Claudette Colvin
 
 ## Ce qui vous a plut, vous a donne des idees
 J'ai trouver que la réalité augmentée à bien été utilisée, les animations étaient fluide, je trouve qu'utiliser la réaliter augmenter est un très bon choix en multimédia
