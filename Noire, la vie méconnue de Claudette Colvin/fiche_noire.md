@@ -52,7 +52,7 @@ Un fichier numérique avec de la réalite augmenter et une expérience sensoriel
 ![image](image/hologramme.webp)
 
 
-Hologramme
+Hologramme <https://www.idboox.com/culture/noire-la-decouverte-extraordinaire-de-la-vie-de-claudette-colvin-en-realite-augmentee/>
 
 
 
@@ -83,10 +83,14 @@ HoloLens et écouteurs
 
 
 
+
+
+
+
 ![image](image/hologramme_3.webp)
 
 
-Scène de procès
+Scène de procès <https://www.idboox.com/culture/noire-la-decouverte-extraordinaire-de-la-vie-de-claudette-colvin-en-realite-augmentee/>
 
 
 
